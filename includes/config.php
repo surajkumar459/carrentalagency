@@ -2,8 +2,8 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','carrental');
+define('DB_PASS','+bY6iZv}o6u(');
+define('DB_NAME','earninga_carrental');
 // Establish database connection.
 try
 {
